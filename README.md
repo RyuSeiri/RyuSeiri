@@ -8,7 +8,7 @@
   <img align="right" src="https://count.getloli.com/get/@:RyuSeiri" alt="RyuSeiri" />
 </div>
 
-![](https://activity-graph.herokuapp.com/graph?username=Ryuseiri&theme=github)
+![RyuSeiri](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
 
 <!-- Label -->
 ![AmazonWebService](https://img.shields.io/badge/-AmazonWebService-fff?style=flat-square&logo=AmazonWebService&logoColor=yellow) 
