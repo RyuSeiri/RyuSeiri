@@ -9,7 +9,7 @@
 </div>
 
 <!-- Label -->
-![AWS](https://img.shields.io/badge/-AWS-fff?style=flat-square&logo=aws&logoColor=yellow) 
+![AWS](https://img.shields.io/badge/-AmazonWebService-fff?style=flat-square&logo=AmazonWebService&logoColor=yellow) 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-fff?style=flat-square&logo=Salesforce&logoColor=42d1f5)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&logoColor=000)
