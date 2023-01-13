@@ -21,5 +21,5 @@
 ![Youtube](https://img.shields.io/badge/-Bilibili-fff?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
 ![Bilibili](https://img.shields.io/badge/-youtube-red?style=flat-square&logo=youtube&labelColor=red&logoColor=fff)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri&theme=github)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri)
 
