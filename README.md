@@ -8,22 +8,25 @@
   <img align="right" src="https://count.getloli.com/get/@:RyuSeiri" alt="RyuSeiri" />
 </div>
 
-[![](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
 
 <!-- Label -->
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) 
-![Salesforce](https://img.shields.io/badge/-Salesforce-fff?style=flat-square&logo=Salesforce&logoColor=42d1f5)
+![Salesforce](https://img.shields.io/badge/-Salesforce-fff?style=flat&logo=Salesforce)
 ![Github](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
 ![Window](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&logoColor=000)
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat&logo=JavaScript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-555.svg?logo=react&style=flat)
+![Vue](https://img.shields.io/badge/-Vue-555.svg?logo=vue.js&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
-![Github_Actions](https://img.shields.io/badge/-Github_Actions-fff?style=flat-square&logo=github-actions&logoColor=blue)
-![Youtube](https://img.shields.io/badge/-Bilibili-fff?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
-![Bilibili](https://img.shields.io/badge/-youtube-red?style=flat-square&logo=youtube&labelColor=red&logoColor=fff)
+![Github_Actions](https://img.shields.io/badge/-Github_Actions-fff?style=flat&logo=github-actions)
+![Qiita](https://img.shields.io/badge/-qiita-fff?style=flat&logo=qiita)
+![BLog](https://img.shields.io/badge/-blogger-fff?style=flat&logo=blogger)
+![Youtube](https://img.shields.io/badge/-Bilibili-fff?style=flat&logo=Bilibili)
+![Bilibili](https://img.shields.io/badge/-youtube-red?style=flat&logo=youtube)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri&)
+![contribite](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri&theme=github)
 
