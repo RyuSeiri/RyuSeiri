@@ -11,15 +11,19 @@
 [![](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
 
 <!-- Label -->
-![AmazonWebService](https://img.shields.io/badge/-AmazonWebService-fff?style=flat-square&logo=AmazonWebService&logoColor=yellow) 
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-fff?style=flat-square&logo=Salesforce&logoColor=42d1f5)
+![Github](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
+![Window](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&logoColor=000)
-![React](https://img.shields.io/badge/-React-fff?style=flat-square&logo=React&color=000)
-![Python](https://img.shields.io/badge/-Python-fff?style=flat-square&logo=Python&color=fff)
+![React](https://img.shields.io/badge/-React-555.svg?logo=react&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
+![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
 ![Github_Actions](https://img.shields.io/badge/-Github_Actions-fff?style=flat-square&logo=github-actions&logoColor=blue)
 ![Youtube](https://img.shields.io/badge/-Bilibili-fff?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
 ![Bilibili](https://img.shields.io/badge/-youtube-red?style=flat-square&logo=youtube&labelColor=red&logoColor=fff)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri&)
 
