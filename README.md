@@ -4,9 +4,9 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=RyuSeiri&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) ![vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuSeiri&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
 
-<div align="right" >
+<!-- <div align="right" >
   <img align="right" src="https://count.getloli.com/get/@:RyuSeiri" alt="RyuSeiri" />
-</div>
+</div>-->
 
 ![](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
 
