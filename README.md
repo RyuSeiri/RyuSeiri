@@ -13,6 +13,7 @@
 <!-- Label -->
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-fff?style=flat&logo=Salesforce)
+![Github](https://img.shields.io/badge/-git-181717.svg?logo=git&style=flat)
 ![Github](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
 ![Window](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
