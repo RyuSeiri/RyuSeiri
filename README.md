@@ -6,7 +6,13 @@
 
 <!-- <div align="right" >
   <img align="right" src="https://count.getloli.com/get/@:RyuSeiri" alt="RyuSeiri" />
+
+
 </div>-->
+
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RyuSeiri&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
+</div>
 
 ![](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
 
