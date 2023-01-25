@@ -37,3 +37,10 @@
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=RyuSeiri&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) ![vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuSeiri&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
+
+---
+## 最近の状態
+最近はファミコンのゲームを熱中してますので、ファミコンゲームのサイトを作成してしまいました。  
+サイトのURLは下記となりますので、興味がある方は是非ご覧ください。  
+あとアドバイスがあれば遠慮なくコメントいただければと思います。  
+https://fc-game.github.io/#/
