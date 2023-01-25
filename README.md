@@ -2,17 +2,17 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=ms+graph&pause=2000&color=F7B200&width=1000&lines=IT業界のエンジニア、現在Salesforce、AWSを専念しています。)
 
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RyuSeiri&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
+</div>
+
+
 ![stats](https://github-readme-stats.vercel.app/api?username=RyuSeiri&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) ![vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuSeiri&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
 
 <!-- <div align="right" >
   <img align="right" src="https://count.getloli.com/get/@:RyuSeiri" alt="RyuSeiri" />
-
-
 </div>-->
 
- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RyuSeiri&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
-</div>
 
 ![](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
 
