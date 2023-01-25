@@ -6,8 +6,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RyuSeiri&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
 </div>
 
+![contribite](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri&theme=github)
 
-![stats](https://github-readme-stats.vercel.app/api?username=RyuSeiri&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) ![vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuSeiri&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
 
 <!-- <div align="right" >
   <img align="right" src="https://count.getloli.com/get/@:RyuSeiri" alt="RyuSeiri" />
@@ -35,5 +35,5 @@
 ![Youtube](https://img.shields.io/badge/-Bilibili-fff?style=flat&logo=Bilibili)
 ![Bilibili](https://img.shields.io/badge/-youtube-red?style=flat&logo=youtube)
 
-![contribite](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri&theme=github)
 
+![stats](https://github-readme-stats.vercel.app/api?username=RyuSeiri&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) ![vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuSeiri&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
