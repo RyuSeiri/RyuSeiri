@@ -1,5 +1,6 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=ms+graph&pause=2000&color=F7B200&width=1000&lines=IT業界のエンジニア、現在Salesforce、AWSを専念しています。)
 
  <div align="center">
@@ -15,7 +16,7 @@
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
-
+---
 <!-- Label -->
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-fff?style=flat&logo=Salesforce)
@@ -35,12 +36,7 @@
 ![Youtube](https://img.shields.io/badge/-Bilibili-fff?style=flat&logo=Bilibili)
 ![Bilibili](https://img.shields.io/badge/-youtube-red?style=flat&logo=youtube)
 
-
+---
 ![stats](https://github-readme-stats.vercel.app/api?username=RyuSeiri&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) ![vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuSeiri&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
 
----
-## 最近の状態
-最近はファミコンのゲームを熱中してますので、ファミコンゲームのサイトを作成してしまいました。  
-サイトのURLは下記となりますので、興味がある方は是非ご覧ください。  
-あとアドバイスがあれば遠慮なくコメントいただければと思います。  
-https://fc-game.github.io/#/
+
