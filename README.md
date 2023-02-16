@@ -3,6 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=ms+graph&pause=2000&color=F7B200&width=1000&lines=IT業界のエンジニア、現在Salesforce、AWSを専念しています。)
 
+---
  <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RyuSeiri&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
 </div>
@@ -10,13 +11,12 @@
 ![contribite](https://github-readme-activity-graph.cyclic.app/graph?username=RyuSeiri&theme=github)
 
 
-<!-- <div align="right" >
+<div align="right" >
   <img align="right" src="https://count.getloli.com/get/@:RyuSeiri" alt="RyuSeiri" />
-</div>-->
-
+</div>
 
 ![](https://activity-graph.herokuapp.com/graph?username=RyuSeiri&theme=github)
----
+
 <!-- Label -->
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-fff?style=flat&logo=Salesforce)
