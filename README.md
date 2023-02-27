@@ -1,1 +1,64 @@
-![Metrics](https://metrics.lecoq.io/Ryuseiri?template=classic&base.indepth=true&repositories.forks=true&gists=1&code=1&traffic=1&calendar=1&skyline=1&anilist=1&screenshot=1&nightscout=1&fortune=1&chess=1&habits=1&stargazers=1&discussions=1&repositories=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&calendar=false&calendar.limit=1&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&chess=false&chess.user=.user.login&chess.animation=%7B%0A%20%20%22size%22%3A%2040%2C%0A%20%20%22delay%22%3A%203%2C%0A%20%20%22duration%22%3A%200.6%0A%7D%0A&fortune=false&nightscout=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&screenshot=false&screenshot.title=Screenshot&screenshot.selector=body&screenshot.mode=image&screenshot.viewport=%7B%0A%20%20%22width%22%3A%201280%2C%0A%20%20%22height%22%3A%201280%0A%7D%0A&screenshot.wait=0&screenshot.background=true&config.timezone=Asia%2FTokyo&config.twemoji=true&config.octicon=true)
+## 👋 Hi! I'm Seiri
+
+<p align="left"> 
+  <a href="https://github.com/Ryuseiri/Ryuseiri/">
+    <img src="https://komarev.com/ghpvc/?username=Ryuseiri" alt="Ryuseiri" />
+  </a>
+  <a href="http://twitter.com/Seiriryu">
+    <img height="20" src="https://img.shields.io/twitter/follow/Seiriryu?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/Ryuseiri">
+    <img height="20" src="https://img.shields.io/github/followers/Ryuseiri?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/21109751/seiriryu">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/21109751?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="http://qiita.com/Seiri">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Seiri/contributions.svg" />
+  </a>
+  <a href="http://qiita.com/Seiri">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Seiri/posts.svg" />
+  </a>
+</p>
+
+<p align="left"> 
+  <a href="https://ryuseiri.github.io/RyuSeiri">
+    <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
+  </a>
+  <a href="https://twitter.com/Seiriryu">
+    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
+  </a>
+  <a href="https://qiita.com/Seiri">
+    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
+  </a>
+  <a href="https://stackoverflow.com/users/21109751/seiriryu" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Ryuseiri" height="30" width="30" />
+  </a>
+</p>
+
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuseiri&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryuseiri&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+[![](https://github-profile-trophy.vercel.app/?username=Ryuseiri&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/Ryuseiri/Ryuseiri/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ryuseiri/Ryuseiri/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ryuseiri/Ryuseiri/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://activity-graph.herokuapp.com/graph?username=Ryuseiri&theme=github)](https://activity-graph.herokuapp.com/graph?username=Ryuseiri&theme=github)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark)
+
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Github使いやすいコツ](https://knowstechnic.blogspot.com/2023/02/github-advanced-operation.html)
+- [【Git】説明と基本操作方法](https://knowstechnic.blogspot.com/2023/01/git-operation.html)
+- [【Git】上級操作方法(その１)](https://knowstechnic.blogspot.com/2023/01/git-advanced-operation-part1.html)
+- [【Git】上級操作方法(その２)](https://knowstechnic.blogspot.com/2023/01/git-advanced-operation-part2.html)
+- [【Git】上級操作方法(その３)](https://knowstechnic.blogspot.com/2023/01/git-advanced-operation-part3.html)
+<!-- BLOG-POST-LIST:END -->
