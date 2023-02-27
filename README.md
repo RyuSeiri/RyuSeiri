@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Seiri
 
 <p align="left"> 
-  <a href="https://github.com/Ryuseiri/Ryuseiri/">
+  <a href="https://knowstechnic.blogspot.com/">
     <img src="https://komarev.com/ghpvc/?username=Ryuseiri" alt="Ryuseiri" />
   </a>
   <a href="http://twitter.com/Seiriryu">
