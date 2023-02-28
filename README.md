@@ -13,29 +13,12 @@
   <a href="https://stackoverflow.com/users/21109751/seiriryu">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/21109751?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-</p>
 
-<p align="left">
   <a href="http://qiita.com/Seiri">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Seiri/contributions.svg" />
   </a>
   <a href="http://qiita.com/Seiri">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Seiri/posts.svg" />
-  </a>
-</p>
-
-<p align="left"> 
-  <a href="https://ryuseiri.github.io/RyuSeiri">
-    <img alt="homepage" width="30px" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" />
-  </a>
-  <a href="https://twitter.com/Seiriryu">
-    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
-  </a>
-  <a href="https://qiita.com/Seiri">
-    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
-  </a>
-  <a href="https://stackoverflow.com/users/21109751/seiriryu" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Ryuseiri" height="30" width="30" />
   </a>
 </p>
 
