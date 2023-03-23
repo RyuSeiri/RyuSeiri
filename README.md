@@ -39,10 +39,10 @@
   <img height="20" src="https://img.shields.io/badge/-blogger-fff?style=flat&logo=blogger" />
   <img height="20" src="https://img.shields.io/badge/-Bilibili-fff?style=flat&logo=Bilibili" />
   <img height="20" src="https://img.shields.io/badge/-youtube-red?style=flat&logo=youtube" />
-
 </p>
 
 ---
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ryuseiri&theme=onedark" /></p>
 
 <p align="center"> 
@@ -50,9 +50,16 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryuseiri&count_private=true&show_icons=true&show_icons=true&theme=onedark" width='30%'/>
 </p>
 
-
 <p align="center"> 
- <img alt="github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark" width='50%'/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark" width='50%'/>
+</p>
+
+----
+<p align="center"> 
+<img src="./SalesforceBadge/2021-03_Badge_SF-Certified_Administrator/2021-03_Badge_SF-Certified_Administrator_500x490px.png" width='10%'/>
+<img src="./SalesforceBadge/2021-03_Badge_SF-Certified_JavaScript-Developer/2021-03_Badge_SF-Certified_JavaScript-Developer-I_500x490px.png" width='10%'/>
+<img src="./SalesforceBadge/2021-03_Badge_SF-Certified_Platform-Developer-I/2021-03_Badge_SF-Certified_Platform-Developer-I_500x490px.png" width='10%'/>
+<img src="./SalesforceBadge/2021-03_Badge_SF-Certified_Platform-Developer-II/2021-03_Badge_SF-Certified_Platform-Developer-II_500x490px.png" width='10%'/>
 </p>
 
 <p align="center"> 
