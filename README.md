@@ -43,27 +43,18 @@
 </p>
 
 ---
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ryuseiri&theme=onedark" /></p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuseiri&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryuseiri&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<p align="center"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuseiri&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" width='30%'/>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryuseiri&count_private=true&show_icons=true&show_icons=true&theme=onedark" width='30%'/>
 </p>
 
-[![](https://github-profile-trophy.vercel.app/?username=Ryuseiri&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/Ryuseiri/Ryuseiri/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ryuseiri/Ryuseiri/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Ryuseiri/Ryuseiri/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://activity-graph.herokuapp.com/graph?username=Ryuseiri&theme=github)](https://activity-graph.herokuapp.com/graph?username=Ryuseiri&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark)
+<p align="center"> 
+ <img alt="github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark" width='50%'/>
+</p>
 
-### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Github 使いやすいコツ](https://knowstechnic.blogspot.com/2023/02/github-advanced-operation.html)
-- [【Git】説明と基本操作方法](https://knowstechnic.blogspot.com/2023/01/git-operation.html)
-- [【Git】上級操作方法(その１)](https://knowstechnic.blogspot.com/2023/01/git-advanced-operation-part1.html)
-- [【Git】上級操作方法(その２)](https://knowstechnic.blogspot.com/2023/01/git-advanced-operation-part2.html)
-- [【Git】上級操作方法(その３)](https://knowstechnic.blogspot.com/2023/01/git-advanced-operation-part3.html)
-<!-- BLOG-POST-LIST:END -->
+<p align="center"> 
+<a href="https://www.buymeacoffee.com/Seiri"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Seiri" /></a>
+</p>
