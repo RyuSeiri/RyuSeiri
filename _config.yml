@@ -1,8 +1,8 @@
 title: Seiriのプロファイル
 description: Seiriのプロファイル
-google_analytics: 
+google_analytics: G-S723HRN1MN
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 
 gems:
-  - jekyll-mentions
+  - minimal-mistakes-jekyll
