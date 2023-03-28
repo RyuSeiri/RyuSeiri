@@ -2,7 +2,7 @@ title: Seiriのプロファイル
 description: Seiriのプロファイル
 google_analytics: G-S723HRN1MN
 show_downloads: false
-theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-gems:
-  - minimal-mistakes-jekyll
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
