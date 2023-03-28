@@ -3,6 +3,6 @@ description: Seiriのプロファイル
 google_analytics: G-S723HRN1MN
 show_downloads: false
 theme: minimal-mistakes-jekyll
-
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 gems:
   - minimal-mistakes-jekyll
