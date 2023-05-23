@@ -54,6 +54,11 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark" width='50%'/>
 </p>
 
+<p align="center"> 
+    personal blog
+    https://seiri.blog/
+</p>
+
 ----
 <p align="center"> 
 <img src="./SalesforceBadge/2021-03_Badge_SF-Certified_Administrator/2021-03_Badge_SF-Certified_Administrator_500x490px.png" width='10%'/>
