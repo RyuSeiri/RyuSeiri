@@ -2,7 +2,7 @@
 <h3 align="center">現在AWSとSalesforceを専念しています。</h3>
 
 <p> 
-  <a href="https://knowstechnic.blogspot.com/">
+  <a>
     <img src="https://komarev.com/ghpvc/?username=Ryuseiri" alt="Ryuseiri" />
   </a>
   <a href="http://twitter.com/Seiriryu">
@@ -48,6 +48,15 @@
 <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuseiri&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark"/>
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryuseiri&count_private=true&show_icons=true&show_icons=true&theme=onedark"/>
+</p>
+<p align="center"> 
+  <img alt="repos-per-language" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyuSeiri&theme=onedark"/>
+  <img alt="most-commit-language" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyuSeiri&theme=onedark"/>
+  <img alt="productive-time" height="150px"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RyuSeiri&theme=onedark&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img alt="profile-details" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyuSeiri&theme=onedark" />
 </p>
 
 <p align="center"> 
