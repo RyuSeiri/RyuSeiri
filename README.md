@@ -1,6 +1,4 @@
 <h1 align="center">👋 Hi , I'm Seiri</h1>
-<h3 align="center">現在AWSとSalesforceを専念しています。</h3>
-
 <p> 
   <a>
     <img src="https://komarev.com/ghpvc/?username=Ryuseiri" alt="Ryuseiri" />
