@@ -65,7 +65,7 @@
 
 <p align="center"> 
     personal blog
-    https://seiri.blog/
+    https://seiri-blog.github.io
 </p>
 
 ----
