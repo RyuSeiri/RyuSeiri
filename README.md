@@ -59,12 +59,12 @@
   <img alt="profile-details" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyuSeiri&theme=onedark" />
 </p>
 
-<p align="center"> 
+<!--<p align="center"> 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark" width='50%'/>
-</p>
+</p>-->
 
 <p align="center"> 
-    personal blog
+    blog:
     https://seiri-blog.github.io
 </p>
 
