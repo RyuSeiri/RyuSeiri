@@ -36,7 +36,6 @@
   <img height="20" src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat" />
   <img height="20" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat" />
   <img height="20" src="https://img.shields.io/badge/-Github_Actions-fff?style=flat&logo=github-actions" />
-  <img height="20" src="https://img.shields.io/badge/-blogger-fff?style=flat&logo=blogger" />
   <img height="20" src="https://img.shields.io/badge/-Bilibili-fff?style=flat&logo=Bilibili" />
   <img height="20" src="https://img.shields.io/badge/-youtube-red?style=flat&logo=youtube" />
 </p>
