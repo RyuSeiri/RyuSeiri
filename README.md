@@ -89,7 +89,7 @@
    <td>https://newsround.github.io/github-trends/</td>
  </tr>
  <tr>
-   <td>site navagation</td>
+   <td>site navigation</td>
    <td>https://tools-site.github.io</td>
  </tr>
 </table>
