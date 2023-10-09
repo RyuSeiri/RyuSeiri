@@ -59,14 +59,40 @@
   <img alt="profile-details" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyuSeiri&theme=onedark" />
 </p>
 
-<!--<p align="center"> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark" width='50%'/>
-</p>-->
-
 <p align="center"> 
-    blog:
-    https://seiri-blog.github.io
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuseiri&theme=dark" width='50%'/>
 </p>
+
+<table align="center"> 
+ <tr>
+   <td>Site Name</td>
+    <td>URL</td>
+ </tr>
+ <tr>
+   <td>blog</td>
+   <td>https://seiri-blog.github.io</td>
+ </tr>
+ <tr>
+   <td>bilibili image site</td>
+   <td>https://github.com/bilibili-tool/image-serenity</td>
+ </tr>
+ <tr>
+   <td>F1 News site</td>
+   <td>https://f1-news.github.io</td>
+ </tr>
+ <tr>
+   <td>FC Game</td>
+   <td>https://fc-game.github.io</td>
+ </tr>
+<tr>
+   <td>github trends</td>
+   <td>https://newsround.github.io/github-trends/</td>
+ </tr>
+ <tr>
+   <td>site navagation</td>
+   <td>https://tools-site.github.io</td>
+ </tr>
+</table>
 
 ----
 <p align="center"> 
@@ -78,5 +104,5 @@
 </p>
 
 <p align="center"> 
-<a href="https://www.buymeacoffee.com/Seiri"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Seiri" /></a>
+  <a href="https://www.buymeacoffee.com/Seiri"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Seiri" /></a>
 </p>
