@@ -103,6 +103,6 @@
 <img src="./SalesforceBadge/2021-11_Badge_SF-Certified_Data-Architect/2021-11_Badge_SF-Certified_Data-Architect_500x490px.png" width='10%'/>
 </p>
 
-<p align="center"> 
+<!--<p align="center"> 
   <a href="https://www.buymeacoffee.com/Seiri"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Seiri" /></a>
-</p>
+</p>--.
