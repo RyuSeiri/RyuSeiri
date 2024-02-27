@@ -74,7 +74,11 @@
  </tr>
  <tr>
    <td>bilibili image site</td>
-   <td>https://github.com/bilibili-tool/image-serenity</td>
+   <td>https://wallpapers-collection.github.io/image-serenity</td>
+ </tr>
+ <tr>
+   <td>bing wallpaper site</td>
+   <td>https://wallpapers-collection.github.io/bing-wallpaper</td>
  </tr>
  <tr>
    <td>F1 News site</td>
