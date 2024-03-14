@@ -25,9 +25,12 @@
   <!-- Label -->
   <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat" />
   <img height="20" src="https://img.shields.io/badge/-Salesforce-fff?style=flat&logo=Salesforce" />
-  <img height="20" src="https://img.shields.io/badge/-git-181717.svg?logo=git&style=flat" />
+  <img height="20" src="https://img.shields.io/badge/-OCI-fff?style=flat&logo=Oracle&logoColor=red" />
   <img height="20" src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat" />
+  <img height="20" src="https://img.shields.io/badge/-Github_Actions-fff?style=flat&logo=github-actions" />
   <img height="20" src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat" />
+  <img height="20" src="https://img.shields.io/badge/-Linux-181717.svg?logo=linux&style=flat" />
+  <img height="20" src="https://img.shields.io/badge/-git-181717.svg?logo=git&style=flat" />
   <img height="20" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img height="20" src="https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat&logo=JavaScript&logoColor=000" />
   <img height="20" src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat" />
@@ -35,10 +38,8 @@
   <img height="20" src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat" />
   <img height="20" src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat" />
   <img height="20" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat" />
-  <img height="20" src="https://img.shields.io/badge/-Github_Actions-fff?style=flat&logo=github-actions" />
-  <img height="20" src="https://img.shields.io/badge/-blogger-fff?style=flat&logo=blogger" />
-  <img height="20" src="https://img.shields.io/badge/-Bilibili-fff?style=flat&logo=Bilibili" />
-  <img height="20" src="https://img.shields.io/badge/-youtube-red?style=flat&logo=youtube" />
+  <img height="20" src="https://img.shields.io/badge/-Java-f3f3f3?style=flat&logo=java" />
+  <img height="20" src="https://img.shields.io/badge/-Blog-232F3E?style=flat&logo=hugo" />
 </p>
 
 ---
