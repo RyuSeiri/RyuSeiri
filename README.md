@@ -82,6 +82,10 @@
    <td>https://wallpapers-collection.github.io/bing-wallpaper</td>
  </tr>
  <tr>
+   <td>F1 Calendar</td>
+   <td>https://f1-calendar.eu.org</td>
+ </tr>
+ <tr>
    <td>F1 News site</td>
    <td>https://f1-news.github.io</td>
  </tr>
