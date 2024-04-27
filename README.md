@@ -70,12 +70,16 @@
     <td>URL</td>
  </tr>
  <tr>
-   <td>blog</td>
+   <td>Seiri's blog</td>
    <td>https://seiri-blog.github.io</td>
  </tr>
- <tr>
-   <td>bing wallpaper site</td>
+  <tr>
+   <td>Bing wallpaper site</td>
    <td>https://wallpapers-collection.github.io/bing-wallpaper</td>
+ </tr>
+ <tr>
+   <td>Html Online Game</td>
+   <td>https://html-online-game.github.io</td>
  </tr>
  <tr>
    <td>F1 Calendar</td>
