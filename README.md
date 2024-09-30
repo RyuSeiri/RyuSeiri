@@ -86,10 +86,6 @@
    <td>https://f1-calendar.eu.org</td>
  </tr>
  <tr>
-   <td>F1 News site</td>
-   <td>https://f1-news.github.io</td>
- </tr>
- <tr>
    <td>FC Game</td>
    <td>https://fc-game.github.io</td>
  </tr>
@@ -98,8 +94,8 @@
    <td>https://newsround.github.io/github-trends/</td>
  </tr>
  <tr>
-   <td>site navigation</td>
-   <td>https://tools-site.github.io</td>
+   <td>chrome-extension</td>
+   <td>https://chrome-tool.github.io/</td>
  </tr>
 </table>
 
