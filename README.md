@@ -90,12 +90,16 @@
    <td>https://fc-game.github.io</td>
  </tr>
 <tr>
-   <td>github trends</td>
+   <td>Github Trends</td>
    <td>https://newsround.github.io/github-trends/</td>
  </tr>
  <tr>
-   <td>chrome-extension</td>
+   <td>Chrome Extension&Theme</td>
    <td>https://chrome-tool.github.io/</td>
+ </tr>
+ <tr>
+   <td>Tiktok Downloader</td>
+   <td>  https://tiktok-download.github.io/</td>
  </tr>
 </table>
 
