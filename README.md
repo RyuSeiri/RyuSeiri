@@ -115,6 +115,7 @@
 <img src="./SalesforceBadge/2021-03_Badge_SF-Certified_Platform-Developer-II/2021-03_Badge_SF-Certified_Platform-Developer-II_500x490px.png" width='10%'/>
 <img src="./SalesforceBadge/2021-11_Badge_SF-Certified_Data-Architect/2021-11_Badge_SF-Certified_Data-Architect_500x490px.png" width='10%'/>
 <img src="./SalesforceBadge/2023-07_Badge_SF-Certified_AI-Associate/2023-07_Badge_SF-Certified_AI-Associate_500x490px.png" width='10%'/>
+<img src="./SalesforceBadge/2025-12_Badge_SF-Agentforce-Specialist/agentforce-specialist.png" width='10%'/>
 </p>
 
 <!--<p align="center"> 
