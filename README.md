@@ -105,6 +105,14 @@
    <td>Xiaoshongshu Downloader</td>
    <td>https://xhs-downloader.github.io/</td>
  </tr>
+<tr>
+   <td>Newsround</td>
+   <td>https://newsround.github.io/</td>
+ </tr>
+<tr>
+   <td>Weather Pro</td>
+   <td>https://weather-pro.github.io/</td>
+ </tr>
 </table>
 
 ----
