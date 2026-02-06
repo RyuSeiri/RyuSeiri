@@ -89,10 +89,6 @@
    <td>FC Game</td>
    <td>https://fc-game.github.io</td>
  </tr>
-<tr>
-   <td>Github Trends</td>
-   <td>https://newsround.github.io/github-trends/</td>
- </tr>
  <tr>
    <td>Chrome Extension&Theme</td>
    <td>https://chrome-tool.github.io/</td>
