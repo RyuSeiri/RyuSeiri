@@ -113,10 +113,15 @@
    <td>Weather Pro</td>
    <td>https://weather-pro.github.io/</td>
  </tr>
-  <tr>
+ <tr>
    <td>Game Vibe</td>
    <td>https://game-vibe.github.io/</td>
  </tr>
+<tr>
+   <td>Github Trends</td>
+   <td> https://git-trends.github.io/</td>
+ </tr>
+ 
 </table>
 
 ----
