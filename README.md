@@ -85,6 +85,10 @@
    <td>F1 Calendar</td>
    <td>https://f1-calendar.eu.org</td>
  </tr>
+  <tr>
+   <td>F1 STATS</td>
+   <td>https://f1-stats.github.io/</td>
+ </tr>
  <tr>
    <td>FC Game</td>
    <td>https://fc-game.github.io</td>
@@ -117,7 +121,30 @@
    <td>Github Trends</td>
    <td> https://git-trends.github.io/</td>
  </tr>
- 
+<tr>
+   <td>CalendarHub</td>
+   <td>https://calendarhub.github.io/</td>
+ </tr>
+<tr>
+   <td>bili anipix</td>
+   <td>https://bili-anipix.github.io/</td>
+ </tr>
+ <tr>
+   <td>japan tools</td>
+   <td>https://japan-tools.github.io/</td>
+ </tr>
+ <tr>
+   <td>pic compressor</td>
+   <td>https://pic-compressor.github.io/</td>
+ </tr>
+ <tr>
+   <td>starhoroscope.github.io</td>
+   <td>https://starhoroscope.github.io/</td>
+ </tr>
+ <tr>
+   <td>online piano</td>
+   <td>https://online-piano.github.io/</td>
+ </tr>
 </table>
 
 ----
